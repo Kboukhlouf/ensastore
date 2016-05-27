@@ -1,0 +1,8 @@
+Id de la Commande : 37
+Nom et Prénom : boukhlouf khalid
+Date de la Commande : May 26, 2016, 3:46 pm
+Details de la commande : 
+Veste Grise Prix Unitaire : 1000 Quantité : 1 Prix*Quantité : 1000 MAD
+Veste Blanche Prix Unitaire : 700 Quantité : 1 Prix*Quantité : 700 MAD
+sac d'or Prix Unitaire : 1900 Quantité : 1 Prix*Quantité : 1900 MAD
+Total : 3600 MAD

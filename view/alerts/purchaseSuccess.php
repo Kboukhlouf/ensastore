@@ -1,0 +1,13 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: ELITE
+ * Date: 24/05/2016
+ * Time: 19:02
+ */
+
+
+    echo '<div class="alert alert-success alert-dismissible" role="alert">
+                          <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                          <strong>Purchase validated!</strong> See you soon at ensastore!
+                        </div>';

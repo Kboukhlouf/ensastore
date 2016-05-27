@@ -1,0 +1,8 @@
+Id de la Commande : 34
+Nom et Prénom : boukhlouf khalid
+Date de la Commande : May 25, 2016, 11:43 am
+Details de la commande : 
+Colier summer Prix Unitaire : 300 Quantité : 3 Prix*Quantité : 900 MAD
+Veste Noire Prix Unitaire : 1500 Quantité : 2 Prix*Quantité : 3000 MAD
+Sunglasses summer Prix Unitaire : 200 Quantité : 2 Prix*Quantité : 400 MAD
+Total : 4300 MAD
