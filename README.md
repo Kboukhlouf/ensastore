@@ -1,5 +1,5 @@
 # ensastore
-Basic eCommerce web app built under MVC architecture, using pure php, AJAX and MySQL
+Basic eCommerce web app built under MVC architecture, using pure php, AJAX and MySQL, Front-end development using Twitter Bootstrap 3
 
 Steps to set-up the website on your local machine :
 
